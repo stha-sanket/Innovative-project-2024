@@ -7,5 +7,5 @@
 - Ashlesha Shrestha
 - Ryea Shrestha
 - Ankit Mahatto
-
-> Da 1!:
+------------------------------------
+> Day 1!:
