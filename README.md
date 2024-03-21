@@ -5,8 +5,8 @@
 - Sanket Shrestha
 - Nishan Shrestha
 - Ashlesha Shrestha
-- Ryea Shrestha
+- Riya Shrestha
 - Ankit Mahatto
 ------------------------------------
 > Day 1!: 3rd March 2024 (Official Team formation day)
-> today was the first ever meeting holded among members where we discussed about the value and the prosition of idea generation among members. each member's value was understood and shared among team members and overall team's strength and team work was determined. Weekly goals and Monthly goals was setted today!
+> Today was the first meeting held among members to discuss the value and position of idea generation among members. each member's value was understood and shared among team members and overall, the team's strength and teamwork were determined. Weekly goals and Monthly goals were set today!
