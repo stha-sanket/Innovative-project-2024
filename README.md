@@ -14,6 +14,6 @@
 > Day 2: 4rth March
 > everyone submitted their own initial idea pdf
 --------------------------------------------------
-
+> Day 3: 5th march(day of holi) no nothing
 
 
