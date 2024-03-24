@@ -8,7 +8,7 @@
 - Riya Shrestha
 - Ankit Mahatto
 ------------------------------------
-> Day 1!: 20rd March 2024 (Official Team formation day)
+> Day 1!: 20rd March 2024 (Official Team formation day)<br>
 > Today was the first meeting held among members to discuss the value and position of idea generation among members. each member's value was understood and shared among team members and overall, the team's strength and teamwork were determined. Weekly goals and Monthly goals were set today!
 --------------------------------------------
 > Day 2: 21rth March
