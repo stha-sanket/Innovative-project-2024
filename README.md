@@ -11,12 +11,12 @@
 > Day 1!: 20rd March 2024 (Official Team formation day)<br>
 > Today was the first meeting held among members to discuss the value and position of idea generation among members. each member's value was understood and shared among team members and overall, the team's strength and teamwork were determined. Weekly goals and Monthly goals were set today!
 --------------------------------------------
-> Day 2: 21rth March
+> Day 2: 21rth March<br>
 > everyone submitted their own initial idea pdf
 --------------------------------------------------
-> Day 3: 22th march(day of holi at college) no nothing
+> Day 3: 22th march(day of holi at college) <br>no nothing
 ------------
-> Day 4: 23th march
+> Day 4: 23th march<br>
 > lack of teamwork.. will we be able to achive it?
 
 -------------------------------------------
