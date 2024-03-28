@@ -22,6 +22,24 @@
 -------------------------------------------
 >day 5: 24th march(real holi shit) nothing to do
 ------------------------------------------------------
->day 5: 24th march(real holi shit) nothing to do
+>day 6: 26th march<br>
+real start of project with each member presenting 5 idea each for the day
 ------------------------------------------------------
-
+>day 7: 27th march <br>
+#### intial topic selection:
+- Intelligent campus Security
+- Agriculture prediction app
+- Signature detection app
+- Ai language translator app
+- Spatial mouse
+- Sign Language detection
+- Community Health Worker Training app
+- Disaster prediction
+- Student teaching program
+- smart waste management
+- Medicine location app
+- Disaster Rescue Bot
+------------------------------------------------------
+>day 8: 28th march <br>
+#### final discussion on project
+<br>
