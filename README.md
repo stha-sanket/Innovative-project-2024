@@ -1,12 +1,12 @@
 # Innovative-project-2024
 --------------------------------
-## Topic: 404_not-found
+## Heart Disesase Prediction App
 ### Members:
-- Sanket Shrestha
-- Nishan Shrestha
-- Ashlesha Shrestha
-- Riya Shrestha
-- Ankit Mahatto
+- Sanket Shrestha - Team Lead
+- Nishan Shrestha - Front-end Developer
+- Ashlesha Shrestha - Research Lead
+- Riya Shrestha - Graphics Designer/ Video Editor
+- Ankit Mahatto - Back-end Developer
 ------------------------------------
 > Day 1!: 20rd March 2024 (Official Team formation day)<br>
 > Today was the first meeting held among members to discuss the value and position of idea generation among members. each member's value was understood and shared among team members and overall, the team's strength and teamwork were determined. Weekly goals and Monthly goals were set today!
